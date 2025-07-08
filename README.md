@@ -149,3 +149,7 @@ If you'd like to improve this project, feel free to fork the repository and subm
 - Add a screenshot image in your repo and link it in the *"📸 Example Output"* section.
 
 Let me know if you'd like the same in *Marathi* or need help with deploying it as a *web app* using Flask or Streamlit.
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/d0f3efbb-ab1b-4af1-bc33-1be83335e0e5)
