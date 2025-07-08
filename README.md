@@ -152,4 +152,4 @@ Let me know if you'd like the same in *Marathi* or need help with deploying it a
 
 #OUTPUT
 
-<img width="362" height="747" alt="Image" src="https://github.com/user-attachments/assets/c4ba3c0e-897f-46a6-b417-c6865ec6b715" />
+<img width="290" height="599" alt="Image" src="https://github.com/user-attachments/assets/975fe22b-e841-41e2-96ab-749631f5e7a4" />
