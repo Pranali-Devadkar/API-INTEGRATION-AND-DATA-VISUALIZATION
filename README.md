@@ -30,9 +30,8 @@ This project is a Python-based weather visualization tool that retrieves and dis
 
 ## 🚀 Getting Started
 
-### 1. Clone the Repository
+## 1. Clone the Repository
 
-```bash
 git clone https://github.com/your-username/weather-visualization.git
 cd weather-visualization
 
