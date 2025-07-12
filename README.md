@@ -141,4 +141,4 @@ If you'd like to improve this project, feel free to fork the repository and subm
 
 #OUTPUT
 
-<img width="290" height="599" alt="Image" src="https://github.com/user-attachments/assets/975fe22b-e841-41e2-96ab-749631f5e7a4" />
+![Image](https://github.com/user-attachments/assets/b7206c2d-4218-4929-bd3e-51d8d62ed6d9)
